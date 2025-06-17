@@ -1,0 +1,63 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Publish output
+publish/
+
+# Debugger files
+*.pdb
+
+# Test results
+TestResults/
+
+# ASP.NET files
+appsettings.*.json
+
+# JetBrains Rider
+.idea/
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+
+# User secrets (if used)
+secrets.json
+
+# Azure Functions local settings
+local.settings.json
+
+# Dotnet watch
+dotnet-watch.json
+
+# VS Code settings folder
+.vscode/
+
